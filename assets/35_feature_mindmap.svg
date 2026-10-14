@@ -1,0 +1,28 @@
+<svg width="1180" height="560" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 560" font-family="Noto Sans KR, Malgun Gothic, Apple SD Gothic Neo, sans-serif" role="img" aria-labelledby="map-title map-desc">
+    <desc id="map-desc">기자, AI 도구, 미디어와 기록, 데스크와 부장, 인사부, 보안과 권한을 중심으로 구성한 기능 지도</desc><title id="map-title">PRESS-CMS 기능 마인드맵</title><defs>
+      <radialGradient id="cg" cx="50%" cy="40%"><stop offset="0" stop-color="#4a86c2" /><stop offset="1" stop-color="#1e3a5f" /></radialGradient>
+    </defs>
+    
+    <g fill="none" stroke-width="3" stroke-linecap="round">
+      <path d="M520 262 C 470 200, 440 120, 410 95" stroke="#4a86c2" />
+      <path d="M520 280 C 470 280, 440 280, 410 280" stroke="#7c3aed" />
+      <path d="M520 298 C 470 360, 440 440, 410 465" stroke="#3b6ea5" />
+      <path d="M660 262 C 710 200, 740 120, 770 95" stroke="#d97706" />
+      <path d="M660 280 C 710 280, 740 280, 770 280" stroke="#3b6ea5" />
+      <path d="M660 298 C 710 360, 740 440, 770 465" stroke="#617087" />
+    </g>
+    
+    <circle cx="590" cy="280" r="84" fill="url(#cg)" stroke="#fff" stroke-width="5" />
+    <text x="590" y="274" text-anchor="middle" fill="#fff" font-size="22" font-weight="800">PRESS-CMS</text>
+    <text x="590" y="298" text-anchor="middle" fill="#cfe2f7" font-size="13">기사 작성·검토·출고</text>
+    
+    <g font-size="17" font-weight="800" fill="#fff" text-anchor="middle">
+      <rect x="250" y="72" width="170" height="46" rx="23" fill="#4a86c2" /><text x="335" y="102">기자</text>
+      <rect x="250" y="257" width="170" height="46" rx="23" fill="#7c3aed" /><text x="335" y="287">AI 도구</text>
+      <rect x="250" y="442" width="170" height="46" rx="23" fill="#3b6ea5" /><text x="335" y="472">미디어·기록</text>
+      <rect x="760" y="72" width="170" height="46" rx="23" fill="#d97706" /><text x="845" y="102">데스크·부장</text>
+      <rect x="760" y="257" width="170" height="46" rx="23" fill="#3b6ea5" /><text x="845" y="287">인사부</text>
+      <rect x="760" y="442" width="170" height="46" rx="23" fill="#617087" /><text x="845" y="472">계정·권한</text>
+    </g>
+    
+    <g><rect x="10" y="48" width="220" height="36" rx="7" fill="#e8f1fb" stroke="#4a86c2" stroke-width="1" /><text x="120" y="73" text-anchor="middle" font-size="18" font-weight="550" fill="#263d58">원고 편집·사진 배치</text><rect x="10" y="92" width="220" height="36" rx="7" fill="#e8f1fb" stroke="#4a86c2" stroke-width="1" /><text x="120" y="117" text-anchor="middle" font-size="18" font-weight="550" fill="#263d58">검토 요청·재검토</text></g><g><rect x="10" y="233" width="220" height="36" rx="7" fill="#f1eafe" stroke="#7c3aed" stroke-width="1" /><text x="120" y="258" text-anchor="middle" font-size="18" font-weight="550" fill="#263d58">질문형 초안·AI 검수</text><rect x="10" y="277" width="220" height="36" rx="7" fill="#f1eafe" stroke="#7c3aed" stroke-width="1" /><text x="120" y="302" text-anchor="middle" font-size="18" font-weight="550" fill="#263d58">인포그래픽·근거 표시</text></g><g><rect x="10" y="418" width="220" height="36" rx="7" fill="#e8f1fb" stroke="#3b6ea5" stroke-width="1" /><text x="120" y="443" text-anchor="middle" font-size="18" font-weight="550" fill="#263d58">사진·영상 라이브러리</text><rect x="10" y="462" width="220" height="36" rx="7" fill="#e8f1fb" stroke="#3b6ea5" stroke-width="1" /><text x="120" y="487" text-anchor="middle" font-size="18" font-weight="550" fill="#263d58">버전 기록·실시간 알림</text></g><g><rect x="950" y="48" width="220" height="36" rx="7" fill="#fdf1de" stroke="#b77920" stroke-width="1" /><text x="1060" y="73" text-anchor="middle" font-size="18" font-weight="550" fill="#263d58">문장 피드백·기사 승인</text><rect x="950" y="92" width="220" height="36" rx="7" fill="#fdf1de" stroke="#b77920" stroke-width="1" /><text x="1060" y="117" text-anchor="middle" font-size="18" font-weight="550" fill="#263d58">출고 대기 검토·출고</text></g><g><rect x="950" y="233" width="220" height="36" rx="7" fill="#e8f1fb" stroke="#3b6ea5" stroke-width="1" /><text x="1060" y="258" text-anchor="middle" font-size="18" font-weight="550" fill="#263d58">가입 승인·직원 관리</text><rect x="950" y="277" width="220" height="36" rx="7" fill="#e8f1fb" stroke="#3b6ea5" stroke-width="1" /><text x="1060" y="302" text-anchor="middle" font-size="18" font-weight="550" fill="#263d58">부서·직책·변경 기록</text></g><g><rect x="950" y="418" width="220" height="36" rx="7" fill="#eef2f6" stroke="#617087" stroke-width="1" /><text x="1060" y="443" text-anchor="middle" font-size="18" font-weight="550" fill="#263d58">로그인·승인 상태 관리</text><rect x="950" y="462" width="220" height="36" rx="7" fill="#eef2f6" stroke="#617087" stroke-width="1" /><text x="1060" y="487" text-anchor="middle" font-size="18" font-weight="550" fill="#263d58">데이터 접근 권한</text></g></svg>

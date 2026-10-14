@@ -1,0 +1,9 @@
+<svg width="560" height="330" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 330" role="img" aria-labelledby="chart-title chart-desc" font-family="Noto Sans KR, Malgun Gothic, Apple SD Gothic Neo, sans-serif"><title id="chart-title">개발 오류 11건의 원인 분류</title><desc id="chart-desc">이름·값 불일치 6건, 필수값 누락 1건, 동시 처리 1건, 조건 설계 1건, 배포 실수 1건, 화면 모양 1건. 팀원 발표자료에 정리한 사례의 분류입니다.</desc>
+        <g font-size="17" font-weight="700" fill="#334155">
+          <text x="0" y="40">이름·값 불일치</text><text x="0" y="90">필수값 누락</text><text x="0" y="140">동시 처리</text><text x="0" y="190">조건 설계</text><text x="0" y="240">배포 실수</text><text x="0" y="290">화면 모양</text>
+        </g>
+        <g>
+          <rect x="130" y="18" width="360" height="32" rx="8" fill="#3b6ea5"/><rect x="130" y="68" width="60" height="32" rx="8" fill="#9bafc7"/><rect x="130" y="118" width="60" height="32" rx="8" fill="#9bafc7"/><rect x="130" y="168" width="60" height="32" rx="8" fill="#9bafc7"/><rect x="130" y="218" width="60" height="32" rx="8" fill="#9bafc7"/><rect x="130" y="268" width="60" height="32" rx="8" fill="#9bafc7"/>
+        </g>
+        <g font-size="18" font-weight="800" fill="#1e3a5f"><text x="500" y="41">6건</text><text x="200" y="91">1건</text><text x="200" y="141">1건</text><text x="200" y="191">1건</text><text x="200" y="241">1건</text><text x="200" y="291">1건</text></g>
+      </svg>
